@@ -1,2 +1,3 @@
-# open-data-pipeline-vjr9
-Repository to test GitHub automation for issue management
+# Open Data Pipeline Vjr9
+
+A repository to test GitHub automation for issue management.
